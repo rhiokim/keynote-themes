@@ -8,4 +8,4 @@ It's theme for keynote in iWork
 # Screenshot
 
 ### bright theme
-![](./screenshot/bright/bright-theme.001.png)
+![](https://github.com/rhiokim/keynote-themes/blob/devel/screenshot/bright/bright-theme.001.png?raw=true)

@@ -1,5 +1,7 @@
 # Intro
-It's theme for keynote in iWork
+It's themes for keynote in iWork
+
+> 맥 키노트용 테마입니다.
 
 # Themes
 
@@ -35,11 +37,6 @@ It's theme for keynote in iWork
 
 
 # Install
-
-### Fancy Install (Unix)
-```
-curl https://raw.github.com/rhiokim/keynote-themes/devel/bin/install.sh | sh
-```
 
 ### Source Install
 ```

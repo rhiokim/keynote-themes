@@ -3,15 +3,6 @@ It's theme for keynote in iWork
 
 # Themes
 
-# Install
-
-## Fancy Install (Unix)
-```
-curl http://npmjs.org/install.sh | sh
-```
-
-# Screenshot
-
 ### bright theme
 ![](https://github.com/rhiokim/keynote-themes/blob/devel/screenshot/bright/bright.001.png?raw=true), 
 ![](https://github.com/rhiokim/keynote-themes/blob/devel/screenshot/bright/bright.002.png?raw=true), 
@@ -41,3 +32,17 @@ curl http://npmjs.org/install.sh | sh
 ![](https://github.com/rhiokim/keynote-themes/blob/devel/screenshot/dark-wood-vintage/dark-wood-vintage.002.png?raw=true), 
 ![](https://github.com/rhiokim/keynote-themes/blob/devel/screenshot/dark-wood-vintage/dark-wood-vintage.003.png?raw=true), 
 ![](https://github.com/rhiokim/keynote-themes/blob/devel/screenshot/dark-wood-vintage/dark-wood-vintage.004.png?raw=true),
+
+
+# Install
+
+### Fancy Install (Unix)
+```
+curl https://raw.github.com/rhiokim/keynote-themes/devel/bin/install.sh | sh
+```
+
+### Source Install
+```
+$ git clone https://github.com/rhiokim/keynote-themes.git 
+$ make install
+```

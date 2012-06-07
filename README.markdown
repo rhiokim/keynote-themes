@@ -44,5 +44,6 @@ curl https://raw.github.com/rhiokim/keynote-themes/devel/bin/install.sh | sh
 ### Source Install
 ```
 $ git clone https://github.com/rhiokim/keynote-themes.git 
+$ cd keynote-themes
 $ make install
 ```

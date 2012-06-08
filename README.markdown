@@ -44,3 +44,19 @@ $ git clone https://github.com/rhiokim/keynote-themes.git
 $ cd keynote-themes
 $ make install
 ```
+
+### Menual Install
+
+만약 Git 이 설치되어있지 않거나 소스 설치에 어려움이 있다면 수동으로 설치할 수 있습니다.
+
+[다운로드](https://github.com/rhiokim/keynote-themes/zipball/master)
+
+1. 먼저 파일을 다운로드 합니다.
+2. 압축을 풉니다.
+3. 압축풀린 폴더로 이동합니다.
+4. make install 을 실행합니다.
+5. 키노트를 실행하고 새로운 테마를 선택해봅니다.
+
+만약 위의 방식도 잘 되지 않는다면
+
+압축 파일을 받아 압축을 풀어 `*.kth` 파일을 `~/Library/Application Support/iWork/Keynote/Themes` 폴더에 복사해 넣으면 됩니다.
